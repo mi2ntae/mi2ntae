@@ -19,7 +19,6 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-***
 ![mi2ntae's GitHub stats](https://github-readme-stats.vercel.app/api?username=mi2ntae&show_icons=true&theme=dark)
 <!--
 **mi2ntae/mi2ntae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
