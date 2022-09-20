@@ -2,7 +2,7 @@
 
 ### 💬 Contacts
 ![header](https://img.shields.io/badge/kimmintae981019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white) ![header](https://img.shields.io/badge/majort@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)
-***
+___
 ### 🌱 Portfolio
 ***
 ### 🛠 Main Stacks
