@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=CEF279&height=100&section=header&text=👋%20Mi2ntae's%20Github%20Profile&fontSize=40&fontColor=5D5D5D&fontAlign=30&fontAlignY=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=CEF279&height=70&section=header&text=👋%20Mi2ntae's%20Github%20Profile&fontSize=40&fontColor=5D5D5D&fontAlign=30&fontAlignY=80&animation=twinkling)
 
 ### 💬 Contacts
 ![header](https://img.shields.io/badge/kimmintae981019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white) ![header](https://img.shields.io/badge/majort@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)
@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>&nbsp;
 ### 🔧 Sub Stacks
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>&nbsp;
