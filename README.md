@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=CEF279&height=300&section=header&text=👋%20Mi2ntae's%20Github%20Profile&fontSize=50&fontColor=5D5D5D&fontAlign=37&fontAlignY=90&animation=twinkling"/>
+![header](https://capsule-render.vercel.app/api?type=transparent&color=CEF279&height=300&section=header&text=👋%20Mi2ntae's%20Github%20Profile&fontSize=50&fontColor=5D5D5D&fontAlign=37&fontAlignY=90&animation=twinkling)
 
 ### 💬 Contacts
-<img src="https://img.shields.io/badge/kimmintae981019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white) ![header](https://img.shields.io/badge/majort@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/>
+![header](https://img.shields.io/badge/kimmintae981019@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white) ![header](https://img.shields.io/badge/majort@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)
 <br><br>
 ### 🌱 Portfolio
 <br><br>
